@@ -1,6 +1,6 @@
 Package.describe({
   name: 'abarrahjaouad:openseadragon-wrapper',
-  version: '0.0.1',
+  version: '0.0.7',
   // Brief, one-line summary of the package.
   summary: 'simple wrapper for openseadragon and d3',
   // URL to the Git repository containing the source code for this package.
